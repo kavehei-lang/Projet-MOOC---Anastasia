@@ -31,7 +31,7 @@ pédagogiques interactifs, accessibles partout et à tout moment.
 
 Il servira à :
 
-### 📚 Transmettre des connaissances
+### Transmettre des connaissances
 
 - cours théoriques
 
@@ -41,7 +41,7 @@ Il servira à :
 
 - ressources complémentaires
 
-### 🧪 Évaluer les apprenants
+### Évaluer les apprenants
 
 - quiz
 
@@ -51,7 +51,7 @@ Il servira à :
 
 - auto-évaluations
 
-### 📈 Suivre la progression
+### Suivre la progression
 
 - modules complétés
 
@@ -59,7 +59,7 @@ Il servira à :
 
 - certificats
 
-### 🤝 Favoriser l’apprentissage autonome
+### Favoriser l’apprentissage autonome
 
 - rythme libre
 
@@ -79,7 +79,7 @@ ce que l’utilisateur voit
 
 ce avec quoi il interagit
 
-👉 boutons, formulaires, pages, animations, messages d’erreur, etc.
+-> boutons, formulaires, pages, animations, messages d’erreur, etc.
 
 Dans une application moderne :
 
@@ -97,17 +97,17 @@ React est une bibliothèque JavaScript développée par Facebook.
 
 Avantages principaux
 
-🧩 Composants réutilisables
+Composants réutilisables
 
-⚡ Rapide grâce au Virtual DOM
+Rapide grâce au Virtual DOM
 
-🔄 Interface dynamique
+Interface dynamique
 
-📦 Écosystème énorme (React Router, Redux, etc.)
+Écosystème énorme (React Router, Redux, etc.)
 
-🧠 Logique + UI au même endroit
+Logique + UI au même endroit
 
-👉 Idéal pour des applications complexes (MOOC, dashboards, e-commerce…)
+Idéal pour des applications complexes (MOOC, dashboards, e-commerce…)
 
 Bibliothèque JavaScript moderne pour construire des interfaces utilisateur dynamiques.
 
